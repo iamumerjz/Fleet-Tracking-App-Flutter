@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDsg--en-ooFar1adSeV_PaaueSFzE-FcI',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:769020150328:web:0fd51c5ab618a1c6a0dccd',
     messagingSenderId: '769020150328',
     projectId: 'fleettrackingmaster',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD4z4DQci6LkKcPJMFnNHSIDlNwpYnZwXQ',
+    apiKey: 'YOUR_API_KEY'
     appId: '1:769020150328:android:4e09b450c3581d75a0dccd',
     messagingSenderId: '769020150328',
     projectId: 'fleettrackingmaster',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBAJTDsPZWRx8-MXxt9CP3sXa_S6iQ8DcY',
+    apiKey: 'YOUR_API_KEY'
     appId: '1:769020150328:ios:719b899077513fdba0dccd',
     messagingSenderId: '769020150328',
     projectId: 'fleettrackingmaster',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBAJTDsPZWRx8-MXxt9CP3sXa_S6iQ8DcY',
+    apiKey: 'YOUR_API_KEY'
     appId: '1:769020150328:ios:719b899077513fdba0dccd',
     messagingSenderId: '769020150328',
     projectId: 'fleettrackingmaster',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDsg--en-ooFar1adSeV_PaaueSFzE-FcI',
+    apiKey: 'YOUR_API_KEY'
     appId: '1:769020150328:web:d57c9197177459fca0dccd',
     messagingSenderId: '769020150328',
     projectId: 'fleettrackingmaster',
