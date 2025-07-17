@@ -28,7 +28,7 @@ class _TruckerDeliveryScreenState extends State<TruckerDeliveryScreen> {
   Map<PolylineId, Polyline> polylines = {};
   List<LatLng> polylineCoordinates = [];
   PolylinePoints polylinePoints = PolylinePoints();
-  String googleAPiKey = "AIzaSyC_v_vd68YlACpkKbLHgTQqNYC-OZY41_k";
+  String googleAPiKey = "YOUR_API_KEY";
 
   LocationData? currentLocation;
 
